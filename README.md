@@ -37,16 +37,8 @@ Production-ready automation for B2B lead enrichment using LLM prompt engineering
 
 ---
 
-### 📈 My GitHub Activity
-<p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Umerheree&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umerheree&layout=compact&langs_count=7&theme=radical" />
-</p>
-
----
-
 ### 📫 Let's Build Something Together!
-- 💼 **LinkedIn:** [linkedin.com/in/umer-mehboob/](https://www.linkedin.com/in/umer-mehboob/)
+- 💼 **LinkedIn:** [linkedin.com/in/umer-mehboob/](https://www.linkedin.com/in/umermk12/)
 - 📍 **Location:** Wah Cantt, Pakistan 🇵🇰
 - 🎓 **Education:** BS Computer Science, COMSATS (Final Year)
 
