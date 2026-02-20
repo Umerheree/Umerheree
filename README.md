@@ -1,7 +1,7 @@
 # Hi there! I'm Muhammad Umer Mehboob 👋 
 
 ### 🚀 Full-Stack Developer & AI Specialist
-I am a Computer Science student at **COMSATS University Islamabad (Wah Campus)** with a **3.47 CGPA**[cite: 8, 9]. [cite_start]I specialize in building "thinking" software using the **MERN Stack**, **Flutter**, and **Applied AI**[cite: 12, 19, 23, 29, 41].
+I am a Computer Science student at **COMSATS University Islamabad (Wah Campus)** with a **3.47 CGPA**. I specialize in building "thinking" software using the **MERN Stack**, **Flutter**, and **Applied AI**.
 
 ---
 
@@ -24,15 +24,15 @@ I am a Computer Science student at **COMSATS University Islamabad (Wah Campus)**
 ### 🌟 Featured Impact Projects
 
 #### 🏗️ [Ustad Go (Final Year Project)](https://github.com/Umerheree)
-[cite_start]A comprehensive on-demand service ecosystem for Pakistan[cite: 29].
-- [cite_start]**Architecture:** Hybrid database synchronization engine (Node.js) replicating Firestore data into MySQL for advanced analytics[cite: 33].
-- [cite_start]**Security:** Enterprise-grade RBAC using Firebase Custom Tokens for granular permissions[cite: 34].
-- [cite_start]**AI Integration:** Automated CNIC validation and issue detection using a FastAPI backend[cite: 36].
+A comprehensive on-demand service ecosystem for Pakistan[cite: 29].
+- **Architecture:** Hybrid database synchronization engine (Node.js) replicating Firestore data into MySQL for advanced analytics.
+- **Security:** Enterprise-grade RBAC using Firebase Custom Tokens for granular permissions.
+- **AI Integration:** Automated CNIC validation and issue detection using a FastAPI backend.
 
 #### 📄 [NexGen AI ATS (Smart Resume Matcher)](https://github.com/Umerheree/smart-resume-matcher)
-[cite_start]An AI-powered recruiting tool that automates candidate screening and ranking[cite: 23, 25].
-- [cite_start]**Semantic Matching:** Implemented TF-IDF and Cosine Similarity to calculate relevance between resumes and job descriptions[cite: 26].
-- [cite_start]**Skill Extraction:** Custom algorithm to identify technical keywords and generate normalized match percentages[cite: 27].
+An AI-powered recruiting tool that automates candidate screening and ranking.
+- **Semantic Matching:** Implemented TF-IDF and Cosine Similarity to calculate relevance between resumes and job descriptions.
+- **Skill Extraction:** Custom algorithm to identify technical keywords and generate normalized match percentages.
 
 #### 🤖 [AI LinkedIn Pipeline](https://github.com/Umerheree/heyreach-ai-reply)
 Production-ready automation for B2B lead enrichment.
@@ -42,13 +42,13 @@ Production-ready automation for B2B lead enrichment.
 ---
 
 ### 👑 Leadership & Impact
-- [cite_start]**President, ACM Student Chapter:** Led a team of 120+ members and organized large-scale hackathons and seminars[cite: 43, 44, 47, 48].
-- [cite_start]**Mentorship:** Actively mentoring juniors in technical learning and professional growth[cite: 50].
+- **President, ACM Student Chapter:** Led a team of 120+ members and organized large-scale hackathons and seminars.
+- **Mentorship:** Actively mentoring juniors in technical learning and professional growth.
 
 
 ---
 
 ### 📫 Let's Connect!
-- [cite_start]💼 **LinkedIn:** [linkedin.com/in/umermk12](https://www.linkedin.com/in/umermk12) [cite: 6]
-- [cite_start]📧 **Email:** [uaabang@gmail.com](mailto:uaabang@gmail.com) [cite: 5]
-- [cite_start]📍 **Location:** Wah Cantt, Pakistan 🇵🇰 [cite: 15, 18]
+- 💼 **LinkedIn:** [linkedin.com/in/umermk12](https://www.linkedin.com/in/umermk12)
+- 📧 **Email:** [uaabang@gmail.com](mailto:uaabang@gmail.com) 
+- 📍 **Location:** Wah Cantt, Pakistan 🇵🇰 
