@@ -1,7 +1,7 @@
 # Hi there! I'm Muhammad Umer Mehboob 👋 
 
 ### 🚀 Full-Stack Developer & AI Specialist
-I am a Computer Science student at **COMSATS University Islamabad (Wah Campus)** specializing in the **MERN Stack** and **Applied AI**. Currently in my 8th semester, I focus on building software that doesn't just work, but thinks.
+[cite_start]I am a Computer Science student at **COMSATS University Islamabad (Wah Campus)** with a **3.47 CGPA**[cite: 8, 9]. [cite_start]I specialize in building "thinking" software using the **MERN Stack**, **Flutter**, and **Applied AI**[cite: 29, 41].
 
 ---
 
@@ -11,35 +11,39 @@ I am a Computer Science student at **COMSATS University Islamabad (Wah Campus)**
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
 **Core Competencies:**
-- **AI & NLP:** Scikit-Learn, TF-IDF, Cosine Similarity, Prompt Engineering
-- **Automation:** n8n, Webhooks, RESTful APIs, Python Scripting
-- **Tools:** Git, Docker, YAML, Google Cloud APIs
+- [cite_start]**AI & NLP:** Scikit-Learn, Sentence-Transformers, TF-IDF, Cosine Similarity [cite: 23, 26, 41]
+- [cite_start]**Backend & Cloud:** Node.js, FastAPI, Firebase, Google Cloud Platform [cite: 36, 39, 41]
+- [cite_start]**Databases:** MongoDB, MySQL, Supabase, Firestore Syncing [cite: 33, 40]
 
 ---
 
 ### 🌟 Featured Impact Projects
 
-#### 🏗️ [Ustad Go](https://github.com/Umerheree) (In Progress)
-An AI-powered mobile and web platform designed to connect users with verified local service providers across Pakistan.
-- **Tech:** Flutter, Node.js, AI Verification Logic.
-- **Focus:** Solving local trust issues in the service industry.
+#### 🏗️ [Ustad Go (Final Year Project)](https://github.com/Umerheree)
+[cite_start]A comprehensive on-demand service ecosystem for Pakistan[cite: 29, 36].
+- [cite_start]**Architecture:** Hybrid database synchronization engine (Node.js) replicating Firestore data into MySQL for advanced analytics[cite: 33].
+- [cite_start]**Security:** Enterprise-grade RBAC using Firebase Custom Tokens for granular permissions[cite: 34].
+- [cite_start]**AI Integration:** Automated CNIC validation and issue detection using a FastAPI backend[cite: 36].
 
-#### 📄 [NexGen AI ATS](https://github.com/Umerheree/smart-resume-matcher)
-An enterprise-grade recruitment platform featuring a **Hybrid Matching Engine**.
-- **AI Core:** Implemented TF-IDF and Cosine Similarity for semantic candidate ranking.
-
-#### 🤖 [AI LinkedIn Pipeline](https://github.com/Umerheree/heyreach-ai-reply)
-Production-ready automation for B2B lead enrichment using LLM prompt engineering.
+#### 📄 [AI Smart Resume Matcher](https://github.com/Umerheree/smart-resume-matcher)
+[cite_start]An AI-powered recruiting tool that automates candidate screening[cite: 23, 25].
+- [cite_start]**Semantic Matching:** Uses NLP to calculate mathematical relevance between resumes and job descriptions[cite: 26].
+- [cite_start]**Dashboard:** Interactive Streamlit interface for real-time candidate metrics[cite: 28].
 
 ---
 
-### 📫 Let's Build Something Together!
-- 💼 **LinkedIn:** [linkedin.com/in/umer-mehboob/](https://www.linkedin.com/in/umermk12/)
-- 📍 **Location:** Wah Cantt, Pakistan 🇵🇰
-- 🎓 **Education:** BS Computer Science, COMSATS (Final Year)
+### 👑 Leadership & Impact
+- [cite_start]**President, ACM Student Chapter:** Led a team of 120+ members and organized large-scale hackathons and seminars[cite: 44, 47, 48].
+- [cite_start]**Mentorship:** Actively mentoring juniors in technical learning and professional growth[cite: 50].
 
-*"Currently mentoring aspiring Python developers and exploring the future of MERN + AI integration."*
+---
+
+
+### 📫 Let's Connect!
+- [cite_start]💼 **LinkedIn:** [linkedin.com/in/umermk12](https://www.linkedin.com/in/umermk12) 
+- [cite_start]📧 **Email:** [uaabang@gmail.com](mailto:uaabang@gmail.com) [cite: 5]
+- [cite_start]📍 **Location:** Wah Cantt, Pakistan 🇵🇰 [cite: 15]
