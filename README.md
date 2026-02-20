@@ -1,7 +1,7 @@
 # Hi there! I'm Muhammad Umer Mehboob 👋 
 
 ### 🚀 Full-Stack Developer & AI Specialist
-[cite_start]I am a Computer Science student at **COMSATS University Islamabad (Wah Campus)** with a **3.47 CGPA**[cite: 8, 9]. [cite_start]I specialize in building "thinking" software using the **MERN Stack**, **Flutter**, and **Applied AI**[cite: 12, 19, 23, 29, 41].
+I am a Computer Science student at **COMSATS University Islamabad (Wah Campus)** with a **3.47 CGPA**[cite: 8, 9]. [cite_start]I specialize in building "thinking" software using the **MERN Stack**, **Flutter**, and **Applied AI**[cite: 12, 19, 23, 29, 41].
 
 ---
 
@@ -14,10 +14,10 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
-[cite_start]**Core Competencies:** [cite: 37, 38, 41]
-- [cite_start]**AI & NLP:** Scikit-Learn, Sentence-Transformers, TF-IDF, Cosine Similarity [cite: 23, 26, 41]
-- [cite_start]**Backend & Cloud:** Node.js, FastAPI, Firebase, Google Cloud Platform [cite: 19, 36, 39, 41]
-- [cite_start]**Databases:** MongoDB, MySQL, Supabase, Firestore Syncing [cite: 20, 33, 40]
+**Core Competencies:** 
+- **AI & NLP:** Scikit-Learn, Sentence-Transformers, TF-IDF, Cosine Similarity 
+- **Backend & Cloud:** Node.js, FastAPI, Firebase, Google Cloud Platform 
+- **Databases:** MongoDB, MySQL, Supabase, Firestore Syncing 
 
 ---
 
