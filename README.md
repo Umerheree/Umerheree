@@ -1,23 +1,26 @@
 # Hi there! I'm Muhammad Umer Mehboob 👋 
 
 ### 🚀 Full-Stack Developer & AI Specialist
-I am a Computer Science student at **COMSATS University Islamabad (Wah Campus)** with a **3.47 CGPA**. I specialize in building "thinking" software using the **MERN Stack**, **Flutter**, and **Applied AI**.
+I am a Computer Science student at **COMSATS University Islamabad (Wah Campus)** with a **3.47 CGPA**. I specialize in building software using the **MERN Stack**, **Flutter**, and **Applied AI**.
 
 ---
 
-### 🛠️ Technical Toolkit
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+#### 🚀 Full-Stack Development (MERN)
+* **Frontend & UI:** Css, Javascript, Tailwindcss, React.js, Responsive Web Design, Streamlit Dashboarding.
+* **Backend:** Node.js, Express.js, RESTful API Design, Python, Fast API, Asynchronous Request Handling.
+* **Databases:** MongoDB (NoSQL), MySQL, Supabase, Firebase, Firestore Syncing.
 
-**Core Competencies:** 
-- **AI & NLP:** Scikit-Learn, Sentence-Transformers, TF-IDF, Cosine Similarity 
-- **Backend & Cloud:** Node.js, FastAPI, Firebase, Google Cloud Platform 
-- **Databases:** MongoDB, MySQL, Supabase, Firestore Syncing 
+#### 🧠 Applied AI & Machine Learning
+* **NLP & Text Analytics:** Scikit-Learn, TF-IDF Vectorization, Cosine & Jaccard Similarity.
+* **Automation:** n8n Workflow Automation, Webhook Integration, LLM Prompt Engineering.
+* **Explainable AI:** Feature Importance Extraction, Data Preprocessing, Segmented Text Parsing.
+
+#### 🏗️ Software Engineering & Architecture
+* **System Design:** Modular Software Architecture, MVC Patterns, Decoupled Backend Logic.
+* **Tools & Cloud:** Google Cloud Platform (GCP), Firebase, Git/GitHub, Docker Basics.
+* **Configuration:** YAML-based Dynamic System Configuration, Environment Variable Management.
 
 ---
 
