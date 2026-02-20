@@ -53,5 +53,5 @@ Production-ready automation for B2B lead enrichment.
 
 ### 📫 Let's Connect!
 - 💼 **LinkedIn:** [linkedin.com/in/umermk12](https://www.linkedin.com/in/umermk12)
-- 📧 **Email:** [uaabang@gmail.com](mailto:uaabang@gmail.com) 
+- 📧 **Email:** [uaaban9@gmail.com](mailto:uaaban9@gmail.com) 
 - 📍 **Location:** Wah Cantt, Pakistan 🇵🇰 
