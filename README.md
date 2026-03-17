@@ -27,6 +27,7 @@ I am a Computer Science student at **COMSATS University Islamabad (Wah Campus)**
 ### 🌟 Featured Projects
 
 #### 🔌 [Eightfold AI Autofill — Chrome Extension](https://github.com/Umerheree/eightfold-autofill)
+📝 **Blog post:** [How I Bypassed React's Synthetic Event System]([https://dev.to/umerheree/your-post-slug](https://dev.to/umerheree/how-i-bypassed-reacts-synthetic-event-system-to-automate-form-filling-26fg))
 A Chrome extension (Manifest V3) that automatically fills job application forms on Eightfold AI ATS platforms with one click. **100% field coverage** across 10 form sections.
 - **React Internals:** Bypassed React's synthetic event system using `HTMLInputElement.prototype` native setter + `InputEvent` dispatch to correctly trigger `onChange` on controlled inputs
 - **Custom Dropdowns:** Interacts with `button[role="option"]` React components (not native `<select>`) by clicking triggers and using `offsetParent` polling to detect visibility
