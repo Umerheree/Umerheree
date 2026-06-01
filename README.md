@@ -1,11 +1,11 @@
 # Hi there! I'm Muhammad Umer Mehboob 👋
-### 🚀 Full-Stack Developer & Browser Automation Engineer
+### 🚀 Full-Stack Developer | DSA Enthusiast | Browser Automation Engineer
 
-I am a Computer Science student at **COMSATS University Islamabad (Wah Campus)** with a **3.47 CGPA**. I specialize in building software using the **MERN Stack**, **Flutter**, **Applied AI**, and **Browser Automation**.
+I am a Computer Science student at **COMSATS University Islamabad (Wah Campus)** with a **3.47 CGPA**. I specialize in building software using the **MERN Stack**, **Flutter**, **Applied AI**, **Browser Automation**, and **Systems Programming in C++**.
 
 ---
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Chrome Extension](https://img.shields.io/badge/Chrome_Extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Chrome Extension](https://img.shields.io/badge/Chrome_Extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
 
 #### 🚀 Full-Stack Development (MERN)
 * **Frontend & UI:** CSS, JavaScript, Tailwind CSS, React.js, Responsive Web Design, Streamlit Dashboarding
@@ -19,12 +19,22 @@ I am a Computer Science student at **COMSATS University Islamabad (Wah Campus)**
 
 #### 🏗️ Software Engineering & Architecture
 * **System Design:** Modular Software Architecture, MVC Patterns, Decoupled Backend Logic
+* **Systems Programming:** C++17, Win32 API, GDI+, Raw Memory Management, Data Structures from scratch
 * **Tools & Cloud:** Google Cloud Platform (GCP), Firebase, Git/GitHub, Docker Basics
 * **Configuration:** YAML-based Dynamic System Configuration, Environment Variable Management
 
 ---
 
 ### 🌟 Featured Projects
+
+#### 👻 [Ghost vs Hunter — DSA Visualizer](https://github.com/Umerheree/Ghost-vs-Hunter)
+A real-time **2-player game** built in **C++17** that visually demonstrates 6 core DSA concepts on a 20×20 grid — with zero STL containers.
+- **Linked List:** All 400 grid cells chained via raw `GridNode* next` pointers
+- **Stack:** Hunter undo system — pop last move with `U`, visualized live on screen
+- **Queue:** Circular-buffer event log with color-coded entries (moves, teleports, collisions)
+- **Graph + BFS:** Adjacency-list graph + BFS shortest path — press `P` to watch pulsing hint dots appear
+- **Dynamic Array:** Capacity-doubling `int*` buffer used by Graph and BFS path, no `std::vector`
+- **Rendering:** Smooth animations, glow effects, and live DSA panels via **Win32 + GDI+** (no external libraries)
 
 #### 🔌 [Eightfold AI Autofill — Chrome Extension](https://github.com/Umerheree/eightfold-autofill)
 📝 **Blog post:** [How I Bypassed React's Synthetic Event System](https://dev.to/umerheree/how-i-bypassed-reacts-synthetic-event-system-to-automate-form-filling-26fg)
