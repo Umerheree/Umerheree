@@ -44,7 +44,7 @@ A Chrome extension (Manifest V3) that automatically fills job application forms 
 - **File Upload:** Programmatic resume/cover letter upload via the `DataTransfer` API — fetch URL → Blob → File → real `FileList` assigned to `input.files`
 - **Timing:** `waitFor()` polling pattern replaces hardcoded `sleep()` — resolves immediately on DOM change, not on a time estimate
 
-#### 🏗️ [Ustad Go (Final Year Project)](https://github.com/Umerheree)
+#### 🏗️ [Ustad Go (Final Year Project)](https://github.com/Umerheree/UstadGO)
 A comprehensive on-demand service ecosystem for Pakistan.
 - **Architecture:** Hybrid database synchronization engine (Node.js) replicating Firestore data into MySQL for advanced analytics
 - **Security:** Enterprise-grade RBAC using Firebase Custom Tokens for granular permissions
