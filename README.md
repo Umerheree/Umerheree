@@ -1,7 +1,7 @@
 # Hi there! I'm Muhammad Umer Mehboob 👋
 ### 🚀 Full-Stack Developer | DSA Enthusiast | Browser Automation Engineer
 
-I am a Computer Science student at **COMSATS University Islamabad (Wah Campus)** with a **3.47 CGPA**. I specialize in building software using the **MERN Stack**, **Flutter**, **Applied AI**, **Browser Automation**, and **Systems Programming in C++**.
+I am a Computer Science graduate from **COMSATS University Islamabad (Wah Campus)** with a **3.50 CGPA**. I specialize in building software using the **MERN Stack**, **Flutter**, **Applied AI**, **Browser Automation**, and **Systems Programming in C++**.
 
 ---
 
